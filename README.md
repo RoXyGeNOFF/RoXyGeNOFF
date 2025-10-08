@@ -72,7 +72,7 @@
 
 <br/>
 
-<img alt="visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDenisNekrasov%2F&count_bg=%2336C5F0&title_bg=%2324292E&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=DenisNekrasov&label=visits&color=0E75B6&style=flat" />
 
 </div>
 
