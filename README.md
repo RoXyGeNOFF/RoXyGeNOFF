@@ -174,36 +174,6 @@
 
 ---
 
-## 📚 Избранные репозитории
-
-<div align="center">
-
-[![Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=RoXyGeNOFF&repo=Marketplace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/RoXyGeNOFF/Marketplace)
-
-</div>
-
----
-
-## 🏆 Достижения
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
-</div>
-
----
-
-## 📊 Вклад в Open Source
-
-<div align="center">
-
-![Contribution](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
----
-
 ## 📬 Связаться со мной
 
 <div align="center">
@@ -222,35 +192,6 @@
 ### 💼 Готов к новым вызовам и интересным проектам!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RoXyGeNOFF&color=00D9FF&style=for-the-badge&label=Profile+Views)
-
-**⭐ Если вам понравился мой профиль, поставьте звезду! ⭐**
-
----
-
-<div align="center">
-
-```typescript
-const denis = {
-  name: "Денис Некрасов",
-  role: "DevOps Engineer & Full Stack Developer",
-  location: "Russia",
-  skills: ["DevOps", "Backend", "Full Stack", "Infrastructure"],
-  approach: "Простые архитектуры, воспроизводимые окружения",
-  value: "Довожу решения до измеримого эффекта для бизнеса"
-};
-```
-
-</div>
-
----
-
-*Последнее обновление: Январь 2025*
-
-<div align="center">
-
-![Snake animation](https://github.com/RoXyGeNOFF/RoXyGeNOFF/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 </div>
 
