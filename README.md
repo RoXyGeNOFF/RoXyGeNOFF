@@ -7,6 +7,17 @@
 
   ---
 
+  <div align="center">
+    <a href="https://github.com/RoXyGeNOFF/RoXyGeNOFF/blob/main/README.md">
+      <img src="https://img.shields.io/badge/🇷🇺_Русский-00D9FF?style=for-the-badge" alt="Russian"/>
+    </a>
+    <a href="https://github.com/RoXyGeNOFF/RoXyGeNOFF/blob/main/README_EN.md">
+      <img src="https://img.shields.io/badge/🇬🇧_English-00D9FF?style=for-the-badge" alt="English"/>
+    </a>
+  </div>
+
+  ---
+
   [![Website](https://img.shields.io/badge/🌐_Website-DenisNekrasov.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DenisNekrasov.dev)
   [![Email](https://img.shields.io/badge/📧_Email-Denis@GNekrasov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Denis@GNekrasov.ru)
   [![GitHub](https://img.shields.io/badge/💻_GitHub-RoXyGeNOFF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoXyGeNOFF)
