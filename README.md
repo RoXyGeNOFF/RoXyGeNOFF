@@ -154,8 +154,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoXyGeNOFF&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)
 
 </div>
@@ -194,5 +192,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RoXyGeNOFF&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
-
 
