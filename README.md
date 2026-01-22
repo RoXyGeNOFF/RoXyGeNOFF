@@ -1,84 +1,256 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Денис%20Некрасов&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=600&color=36C5F0&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%E2%80%94+%D0%94%D0%B5%D0%BD%D0%B8%D1%81+%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2;DevOps+%E2%80%A2+Full+Stack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%E2%80%A2+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" alt="typing animation" />
+  ### 👨‍💻 DevOps Engineer & Full Stack Developer
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Создаю+устойчивую+инфраструктуру;Автоматизирую+процессы;От+идеи+до+продакшена)](https://git.io/typing-svg)
 
-<br/>
+  ---
 
-<a href="https://DenisNekrasov.dev"><img alt="Website" src="https://img.shields.io/badge/Website-DenisNekrasov.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<a href="mailto:Denis@GNekrasov.ru"><img alt="Email" src="https://img.shields.io/badge/Email-Denis%40GNekrasov.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/DenisNekrasov"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DenisNekrasov-24292e?style=for-the-badge&logo=github"></a>
+  [![Website](https://img.shields.io/badge/🌐_Website-DenisNekrasov.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DenisNekrasov.dev)
+  [![Email](https://img.shields.io/badge/📧_Email-Denis@GNekrasov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Denis@GNekrasov.ru)
+  [![GitHub](https://img.shields.io/badge/💻_GitHub-RoXyGeNOFF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoXyGeNOFF)
 
-<br/>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="650" alt="animated header" />
-
-</div>
-
-### Обо мне
-
-Привет! Я — Денис Некрасов. Занимаюсь разработкой и эксплуатацией IT‑систем, строю устойчивую инфраструктуру и автоматизирую процессы от идеи до продакшена. Мне близки задачи на стыке DevOps, Backend и интеграций. Подробнее — на моём сайте: [`DenisNekrasov.dev`](https://DenisNekrasov.dev).
-
-- **Фокус**: DevOps, Full Stack, автоматизация, наблюдаемость, производительность
-- **Подход**: простые архитектуры, воспроизводимые окружения, метрики и SLO
-- **Ценность**: довожу решения до измеримого эффекта для бизнеса
-
-### Технологии
-
-<div>
-
-<img alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="1C" src="https://img.shields.io/badge/1C%3AEnterprise-ED1C24?style=for-the-badge&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
 
-### Выбранные проекты
+---
 
-- Инфраструктура и DevOps для высоконагруженных сервисов: CI/CD, мониторинг, алертинг, резервирование
-- Full Stack решения под ключ: API, фронтенд, интеграции, миграции данных
-- Системная автоматизация и наблюдаемость: Prometheus, Grafana, логирование, трассировка
-
-Подробнее и с кейсами — на сайте: [`DenisNekrasov.dev`](https://DenisNekrasov.dev)
-
-### GitHub статистика
+## 🎯 Обо мне
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisNekrasov&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-<br/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisNekrasov&theme=tokyonight" alt="most commit language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisNekrasov&theme=tokyonight" alt="repos per language" />
+> 💡 **Мой подход**: Простые архитектуры, воспроизводимые окружения, метрики и SLO  
+> 🎯 **Моя ценность**: Довожу решения до измеримого эффекта для бизнеса  
+> 🚀 **Моя специализация**: DevOps, Backend, интеграции
 
 </div>
 
-### Как связаться
+Привет! Я **Денис Некрасов** — инженер, специализирующийся на разработке и эксплуатации IT-систем. 
 
-- Сайт: [`DenisNekrasov.dev`](https://DenisNekrasov.dev)
-- Email: [`Denis@GNekrasov.ru`](mailto:Denis@GNekrasov.ru)
+Создаю устойчивую инфраструктуру и автоматизирую процессы от идеи до продакшена. Моя специализация находится на стыке **DevOps**, **Backend** и **интеграций**.
+
+Подробнее о моих проектах и кейсах — на моём сайте: **[DenisNekrasov.dev](https://DenisNekrasov.dev)**
+
+---
+
+## 🛠 Технологический стек
+
+### 🐧 Инфраструктура & DevOps
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="wave" />
-
-<br/>
-
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=DenisNekrasov&label=visits&color=0E75B6&style=flat" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
 
+### 📊 Мониторинг & Observability
+
+<div align="center">
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-DC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+</div>
+
+### 💾 Базы данных
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### 💻 Языки программирования
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### 🏢 Интеграции & Другое
+
+<div align="center">
+
+![1C](https://img.shields.io/badge/1C-0066B3?style=for-the-badge&logo=1c&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Ключевые проекты
+
+### 🏗️ Инфраструктура и DevOps для высоконагруженных сервисов
+
+<div align="left">
+
+- ✅ **CI/CD пайплайны** — GitHub Actions, GitLab CI, Jenkins
+- ✅ **Мониторинг и алертинг** — Prometheus, Grafana, Zabbix
+- ✅ **Резервирование и отказоустойчивость** — High Availability, Disaster Recovery
+- ✅ **Автоматизация деплоя** — Blue-Green, Canary, Rolling Updates
+- ✅ **Масштабирование** — Horizontal Pod Autoscaler, Vertical Pod Autoscaler
+
+</div>
+
+### 🌐 Full Stack решения под ключ
+
+<div align="left">
+
+- ✅ **RESTful API** — Микросервисная архитектура, API Gateway
+- ✅ **Современные фронтенд-приложения** — React, TypeScript, Vue.js
+- ✅ **Интеграции с внешними системами** — REST, GraphQL, Webhooks
+- ✅ **Миграции данных** — ETL процессы, Data Pipeline
+
+</div>
+
+### 📊 Системная автоматизация и наблюдаемость
+
+<div align="left">
+
+- ✅ **Метрики и мониторинг** — Prometheus, Grafana, Custom Dashboards
+- ✅ **Централизованное логирование** — ELK Stack, Loki, Fluentd
+- ✅ **Distributed tracing** — Jaeger, Zipkin, OpenTelemetry
+- ✅ **SLO/SLI и алертинг** — Service Level Objectives, Alerting Rules
+
+</div>
+
+---
+
+## 📈 GitHub статистика
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoXyGeNOFF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoXyGeNOFF&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)
+
+</div>
+
+---
+
+## 🎯 Фокус и специализация
+
+<div align="center">
+
+| 🏗️ Архитектура | 🔄 Автоматизация | 📊 Наблюдаемость | ⚡ Производительность | 🔒 Безопасность |
+|:---:|:---:|:---:|:---:|:---:|
+| Простые, масштабируемые решения | CI/CD, Infrastructure as Code | Метрики, логи, трассировка | Оптимизация и масштабирование | Best practices и compliance |
+
+</div>
+
+---
+
+## 📚 Избранные репозитории
+
+<div align="center">
+
+[![Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=RoXyGeNOFF&repo=Marketplace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/RoXyGeNOFF/Marketplace)
+
+</div>
+
+---
+
+## 🏆 Достижения
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
+
+</div>
+
+---
+
+## 📊 Вклад в Open Source
+
+<div align="center">
+
+![Contribution](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 📬 Связаться со мной
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-DenisNekrasov.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DenisNekrasov.dev)
+[![Email](https://img.shields.io/badge/📧_Email-Denis@GNekrasov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Denis@GNekrasov.ru)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-RoXyGeNOFF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoXyGeNOFF)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisnekrasov)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Готов к новым вызовам и интересным проектам!
+
+![Profile Views](https://komarev.com/ghpvc/?username=RoXyGeNOFF&color=00D9FF&style=for-the-badge&label=Profile+Views)
+
+**⭐ Если вам понравился мой профиль, поставьте звезду! ⭐**
+
+---
+
+<div align="center">
+
+```typescript
+const denis = {
+  name: "Денис Некрасов",
+  role: "DevOps Engineer & Full Stack Developer",
+  location: "Russia",
+  skills: ["DevOps", "Backend", "Full Stack", "Infrastructure"],
+  approach: "Простые архитектуры, воспроизводимые окружения",
+  value: "Довожу решения до измеримого эффекта для бизнеса"
+};
+```
+
+</div>
+
+---
+
+*Последнее обновление: Январь 2025*
+
+<div align="center">
+
+![Snake animation](https://github.com/RoXyGeNOFF/RoXyGeNOFF/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+</div>
 
