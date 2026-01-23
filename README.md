@@ -161,11 +161,59 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoXyGeNOFF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
+### 🏆 GitHub Trophies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoXyGeNOFF&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)
+---
+
+### 📊 Статистика профиля
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoXyGeNOFF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues&hide_title=false)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Топ языков программирования
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&exclude_repo=RoXyGeNOFF&hide_progress=false)
+
+---
+
+### 📈 График активности
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoXyGeNOFF&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF&custom_title=GitHub%20Contribution%20Graph&hide_border=true)
+
+---
+
+### 🎯 Дополнительная статистика
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake.svg)
+
+</td>
+<td width="50%">
+
+![GitHub 3D Contribution](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-green.svg)
+
+</td>
+</tr>
+</table>
 
 </div>
 
