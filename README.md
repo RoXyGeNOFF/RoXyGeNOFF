@@ -173,7 +173,7 @@
 <div align="left">
 
 ### 🥇 Победа в конкурсе Global CIO
-- 🏆 **Победа в конкурсе Global CIO** (вместе с Михаилом Кириленко)
+- 🏆 **Победа в конкурсе Global CIO** (вместе с Михаилом Кисленко)
 - 🌐 [Подробнее о конкурсе](https://globalcio.ru)
 
 ### 🏗️ Крупные инфраструктурные проекты
@@ -278,27 +278,30 @@
 
 <div align="center">
 
-#### 🐍 Snake Animation
+#### 📊 Детальная статистика
 
-<img src="https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<table>
+<tr>
+<td width="50%">
 
-<small>⚠️ Файл генерируется в ветку `output` через GitHub Actions</small>
+![GitHub Stats Detailed](https://github-readme-stats.vercel.app/api?username=RoXyGeNOFF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues&hide_title=false&card_width=450&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</td>
+<td width="50%">
+
+![GitHub Streak Extended](https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF&card_width=450)
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### 📊 3D Contribution Graph
+#### 💻 Детальная статистика языков
 
-<img src="https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution" width="100%" />
-
-<small>⚠️ Файл генерируется автоматически через GitHub Actions</small>
+![Top Languages Detailed](https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&exclude_repo=RoXyGeNOFF&hide_progress=false&card_width=700)
 
 </div>
-
-> 💡 **Инструкция**: Если изображения не отображаются, запустите workflows вручную:
-> - Перейдите в **Actions** на GitHub
-> - Выберите **Generate Snake Animation** или **Generate 3D Contribution Graph**
-> - Нажмите **Run workflow**
-> - Файлы появятся через несколько минут
 
 </div>
 
