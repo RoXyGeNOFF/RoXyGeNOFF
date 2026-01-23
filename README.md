@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Денис%20Некрасов&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Денис%20Некрасов&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20DevOps%20Engineer%20%26%20Full%20Stack%20Developer%20%7C%2010%2B%20лет%20опыта&descAlignY=51&descAlign=62"/>
   
-  <h3 align="center">👨‍💻 DevOps Engineer & Full Stack Developer</h3>
+  <h3 align="center">👨‍💻 Senior DevOps Engineer & Full Stack Developer</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Опыт-10%2B%20лет-00D9FF?style=for-the-badge&logo=clockify&logoColor=white" alt="10+ years experience"/>
+    <img src="https://img.shields.io/badge/Статус-Senior%20IT%20Specialist-00D9FF?style=for-the-badge&logo=star&logoColor=white" alt="Senior IT Specialist"/>
+  </p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Создаю+устойчивую+инфраструктуру;Автоматизирую+процессы;От+идеи+до+продакшена)](https://git.io/typing-svg)
 
@@ -49,9 +54,20 @@
 
 </div>
 
-Привет! Я **Денис Некрасов** — инженер, специализирующийся на разработке и эксплуатации IT-систем. 
+Привет! Я **Денис Некрасов** — **Senior IT Specialist** с опытом работы **более 10 лет** в разработке IT-направлений, внедрении и поддержке IT-систем, автоматизации и оптимизации бизнес-процессов.
 
-Создаю устойчивую инфраструктуру и автоматизирую процессы от идеи до продакшена. Моя специализация находится на стыке **DevOps**, **Backend** и **интеграций**.
+**Мой опыт включает:**
+- ✅ Успешный опыт работы **руководителем IT**
+- ✅ Построение IT-инфраструктуры **с нуля**
+- ✅ Модернизация существующих систем
+- ✅ Установление взаимодействия между IT и бизнесом
+- ✅ Компетентное ведение переговоров с подрядчиками и партнерами
+- ✅ Организация рабочих процессов
+
+**Мои сильные стороны:**
+- 🎯 Стратегическое видение развития IT
+- 💼 Ответственность за результат
+- ⚖️ Умение находить баланс между технологическим развитием и бизнес-задачами
 
 Подробнее о моих проектах и кейсах — на моём сайте: **[DenisNekrasov.dev](https://DenisNekrasov.dev)**
 
@@ -147,6 +163,26 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Ключевые достижения
+
+<div align="left">
+
+### 🥇 Победа в конкурсе Global CIO
+- 🏆 **Победа в конкурсе Global CIO** (вместе с Михаилом Кириленко)
+- 🌐 [Подробнее о конкурсе](https://globalcio.ru)
+
+### 🏗️ Крупные инфраструктурные проекты
+
+- ✅ **Построение IT-инфраструктуры с нуля** для GC Ростовская Нива (инфраструктура, системы и сервисы на портовом и линейном элеваторе, мельнице, колхозе)
+- ✅ **Автоматизация портового элеватора в Азове**: автоматизация полного цикла работы предприятия, внедрение 1C, автоматизация даже в мельчайших деталях
+- ✅ **Успешный переход портового элеватора** при смене собственности на новую систему управления без остановки работы
+- ✅ **Проект разделения от международной компании**: построение независимого IT-ландшафта **за 3 месяца**
+- ✅ **Разработка системы управления движением зерновозов** полного цикла (распознавание номеров, автоматическое открытие шлагбаумов, интеграция лабораторных приборов и др.)
 
 </div>
 
@@ -265,6 +301,32 @@
 
 ---
 
+## 💼 Опыт работы
+
+<div align="left">
+
+### 🏢 Louis Dreyfus (Azov)
+
+**Обязанности:**
+- ✅ Администрирование и интеграция различных IT-систем предприятия
+- ✅ Оптимизация автоматизации погрузочно-разгрузочных и складских операций
+- ✅ Организация бесперебойной работы IT-инфраструктуры
+- ✅ Разработка технических заданий, взаимодействие с подрядчиками
+- ✅ Обучение пользователей
+- ✅ Оптимизация бизнес-процессов
+- 🏆 **Победа в конкурсе Global CIO**
+
+### 🏢 JustDo-iT (Ростов-на-Дону)
+
+**Обязанности:**
+- ✅ Автоматизация бизнеса, системы 1C
+- ✅ Системное администрирование
+- ✅ Разработка и поддержка [jdit.ru](https://jdit.ru)
+
+</div>
+
+---
+
 ## 🎯 Фокус и специализация
 
 <div align="center">
@@ -280,6 +342,14 @@
 ## 🏅 Достижения и навыки
 
 <div align="center">
+
+### 🏆 Награды и признание
+
+![Global CIO Winner](https://img.shields.io/badge/Global_CIO-Winner-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white)
+![10+ Years Experience](https://img.shields.io/badge/Опыт-10%2B%20лет-00D9FF?style=for-the-badge&logo=clockify&logoColor=white)
+![Senior IT Specialist](https://img.shields.io/badge/Статус-Senior%20IT%20Specialist-00D9FF?style=for-the-badge&logo=star&logoColor=white)
+
+### 💻 Технические сертификации
 
 ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -311,6 +381,9 @@
 [![Email](https://img.shields.io/badge/📧_Email-Denis@GNekrasov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Denis@GNekrasov.ru)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-RoXyGeNOFF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoXyGeNOFF)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisnekrasov)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Habr Career](https://img.shields.io/badge/💼_Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/yourprofile)
 
 </div>
 
