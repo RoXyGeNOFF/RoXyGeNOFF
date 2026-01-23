@@ -163,7 +163,11 @@
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)
+
+</div>
 
 ---
 
@@ -200,20 +204,30 @@
 
 ### 🎯 Дополнительная статистика
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake.svg)
+#### 🐍 Snake Animation
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake-dark.svg)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
+
+#### 📊 3D Contribution Graph
 
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-green.svg)
 
 </td>
 </tr>
 </table>
+
+> 💡 **Примечание**: Snake animation и 3D график генерируются автоматически через GitHub Actions. Если они не отображаются сразу, подождите несколько минут после первого запуска workflow или запустите их вручную в разделе Actions.
+
+</div>
 
 </div>
 
