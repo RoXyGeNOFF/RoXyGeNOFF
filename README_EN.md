@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Denis%20Nekrasov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20DevOps%20Engineer%20%26%20Full%20Stack%20Developer%20%7C%2010%2B%20years&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Denis%20Nekrasov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
   <h3 align="center">👨‍💻 Senior DevOps Engineer & Full Stack Developer</h3>
   
