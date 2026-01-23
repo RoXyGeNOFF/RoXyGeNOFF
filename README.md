@@ -237,7 +237,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)
+<img src="https://github-profile-trophy.vercel.app/?username=RoXyGeNOFF&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
@@ -254,7 +254,7 @@
 </td>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF&card_width=450)
+<img src="https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF&card_width=450" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -276,26 +276,29 @@
 
 ### 🎯 Дополнительная статистика
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
 #### 🐍 Snake Animation
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
-</td>
-<td width="50%" align="center">
+<small>⚠️ Файл генерируется в ветку `output` через GitHub Actions</small>
+
+---
 
 #### 📊 3D Contribution Graph
 
-![GitHub 3D Contribution](https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-green.svg)
+<img src="https://raw.githubusercontent.com/RoXyGeNOFF/RoXyGeNOFF/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution" width="100%" />
 
-</td>
-</tr>
-</table>
+<small>⚠️ Файл генерируется автоматически через GitHub Actions</small>
 
-> 💡 **Примечание**: Snake animation и 3D график генерируются автоматически через GitHub Actions. Если они не отображаются сразу, подождите несколько минут после первого запуска workflow или запустите их вручную в разделе Actions.
+</div>
+
+> 💡 **Инструкция**: Если изображения не отображаются, запустите workflows вручную:
+> - Перейдите в **Actions** на GitHub
+> - Выберите **Generate Snake Animation** или **Generate 3D Contribution Graph**
+> - Нажмите **Run workflow**
+> - Файлы появятся через несколько минут
 
 </div>
 
