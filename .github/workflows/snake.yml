@@ -9,6 +9,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_scheme=dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#3FB950
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3FB950
             dist/github-contribution-grid-snake.gif?color_scheme=dark
 
       - name: Push to output branch
@@ -33,4 +36,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
