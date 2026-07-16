@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Денис Некрасов — DevOps · Backend · Automation" width="100%"/>
+<img src="assets/banner.svg" alt="Денис Некрасов — DevOps · Backend · Automation" width="100%"/>
 
 <br/>
 
@@ -187,15 +187,6 @@ Prometheus + Grafana дашборды · Централизованные лог
 ## 📊 GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RoXyGeNOFF&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true&hide=issues&card_width=450" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=RoXyGeNOFF&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9" height="165" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoXyGeNOFF&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8&card_width=700" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoXyGeNOFF&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&area_color=3FB950&custom_title=Contribution%20Graph&height=300" width="100%" alt="Activity Graph"/>
 
