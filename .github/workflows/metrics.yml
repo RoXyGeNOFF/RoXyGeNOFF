@@ -36,6 +36,11 @@ jobs:
             * { color: #C9D1D9 !important; border-color: #30363D !important; }
             h2, .title, a { color: #3FB950 !important; }
             .field svg, .octicon { fill: #8B949E !important; }
+            /* Пустые дни календаря заданы presentation-атрибутом fill="#ebedf0"
+               (1065 штук) — это и есть белая плита. Любое CSS-правило бьёт
+               presentation-атрибут, поэтому селектор по атрибуту работает. */
+            [fill="#ebedf0"] { fill: #161b22 !important; }
+            :root { --color-calendar-graph-day-bg: #161b22 !important; }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -55,9 +60,13 @@ jobs:
             * { color: #C9D1D9 !important; border-color: #30363D !important; }
             h2, .title, a { color: #3FB950 !important; }
             .field svg, .octicon { fill: #8B949E !important; }
+            /* Пустые дни календаря заданы presentation-атрибутом fill="#ebedf0"
+               (1065 штук) — это и есть белая плита. Любое CSS-правило бьёт
+               presentation-атрибут, поэтому селектор по атрибуту работает. */
+            [fill="#ebedf0"] { fill: #161b22 !important; }
+            :root { --color-calendar-graph-day-bg: #161b22 !important; }
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
-          debug: yes
