@@ -18,7 +18,7 @@
 
 <br/>
 
-## 💻 whoami
+## <img src="assets/icons/whoami.svg" width="26" height="26" alt=""/> whoami
 
 ```bash
 $ whoami
@@ -42,7 +42,7 @@ $ history | tail -3
 
 <br/>
 
-## ⚙️ Технологический стек
+## <img src="assets/icons/stack.svg" width="26" height="26" alt=""/> Технологический стек
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ $ history | tail -3
 
 <br/>
 
-## 🏆 Ключевые достижения
+## <img src="assets/icons/trophy.svg" width="26" height="26" alt=""/> Ключевые достижения
 
 > 🥇 **Победа в конкурсе Global CIO** (вместе с Михаилом Кисленко) —
 > [«Построение локального ИТ-ландшафта при отделении от международной компании»](https://globalcio.ru/projects/36374/)
@@ -128,27 +128,27 @@ $ history | tail -3
 
 <br/>
 
-## 🚀 Что я делаю
+## <img src="assets/icons/rocket.svg" width="26" height="26" alt=""/> Что я делаю
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🏗️ Инфраструктура
+### <img src="assets/icons/infra.svg" width="22" height="22" alt=""/> Инфраструктура
 
 CI/CD-пайплайны (GitHub Actions, GitLab CI, Jenkins) · High Availability и Disaster Recovery · Blue-Green и Canary деплой · Infrastructure as Code (Terraform, Ansible)
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Full Stack
+### <img src="assets/icons/globe.svg" width="22" height="22" alt=""/> Full Stack
 
 Микросервисы и RESTful API · React / Vue + TypeScript · Интеграции (REST, GraphQL, Webhooks) · ETL и миграции данных · Real-time (WebSockets, SSE)
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 Наблюдаемость
+### <img src="assets/icons/observability.svg" width="22" height="22" alt=""/> Наблюдаемость
 
 Prometheus + Grafana дашборды · Централизованные логи (ELK, Loki) · Distributed tracing (Jaeger, OpenTelemetry) · SLO/SLI и алертинг
 
@@ -158,7 +158,7 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <br/>
 
-## 💼 Опыт работы
+## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Опыт работы
 
 <details>
 <summary><b>🏢 Louis Dreyfus (Азов)</b> — администрирование и интеграция IT-систем предприятия</summary>
@@ -184,7 +184,7 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <br/>
 
-## 📊 GitHub
+## <img src="assets/icons/github.svg" width="26" height="26" alt=""/> GitHub
 
 <div align="center">
 
@@ -202,7 +202,7 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <br/>
 
-## 🎯 Фокус
+## <img src="assets/icons/focus.svg" width="26" height="26" alt=""/> Фокус
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <br/>
 
-## 📬 Связаться со мной
+## <img src="assets/icons/mail.svg" width="26" height="26" alt=""/> Связаться со мной
 
 <div align="center">
 
