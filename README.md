@@ -34,11 +34,11 @@ $ history | tail -3
   Автоматизирую всё, что можно автоматизировать_
 ```
 
-- 🔭 Работаю над **масштабируемыми инфраструктурными решениями**
-- 🌱 Углубляюсь в **Kubernetes**, **Terraform** и **Cloud Native**
-- 👯 Открыт к **collaboration** в open-source проектах
-- 💬 Всегда готов обсудить **DevOps**, **Backend** и **архитектуру систем**
-- 🌐 Проекты и кейсы — на [**DenisNekrasov.dev**](https://DenisNekrasov.dev)
+- <img src="assets/icons/telescope.svg" width="18" height="18" alt=""/> Работаю над **масштабируемыми инфраструктурными решениями**
+- <img src="assets/icons/seedling.svg" width="18" height="18" alt=""/> Углубляюсь в **Kubernetes**, **Terraform** и **Cloud Native**
+- <img src="assets/icons/people.svg" width="18" height="18" alt=""/> Открыт к **collaboration** в open-source проектах
+- <img src="assets/icons/chat.svg" width="18" height="18" alt=""/> Всегда готов обсудить **DevOps**, **Backend** и **архитектуру систем**
+- <img src="assets/icons/globe.svg" width="18" height="18" alt=""/> Проекты и кейсы — на [**DenisNekrasov.dev**](https://DenisNekrasov.dev)
 
 <br/>
 
@@ -117,14 +117,14 @@ $ history | tail -3
 
 ## <img src="assets/icons/trophy.svg" width="26" height="26" alt=""/> Ключевые достижения
 
-> 🥇 **Победа в конкурсе Global CIO** (вместе с Михаилом Кисленко) —
+> <img src="assets/icons/medal.svg" width="18" height="18" alt=""/> **Победа в конкурсе Global CIO** (вместе с Михаилом Кисленко) —
 > [«Построение локального ИТ-ландшафта при отделении от международной компании»](https://globalcio.ru/projects/36374/)
 
-- 🏗️ **IT-инфраструктура с нуля** для ГК «Ростовская Нива» — портовый и линейный элеваторы, мельница, колхоз
-- ⚙️ **Автоматизация портового элеватора в Азове** — полный цикл работы предприятия, 1C, автоматизация в мельчайших деталях
-- 🔄 **Переход элеватора на новую систему управления** при смене собственника — **без остановки работы**
-- 🚀 **Отделение от международной компании** — независимый IT-ландшафт **за 3 месяца**
-- 🚛 **Система управления движением зерновозов** полного цикла — распознавание номеров, автоматика шлагбаумов, интеграция лабораторных приборов
+- <img src="assets/icons/infra.svg" width="18" height="18" alt=""/> **IT-инфраструктура с нуля** для ГК «Ростовская Нива» — портовый и линейный элеваторы, мельница, колхоз
+- <img src="assets/icons/gear.svg" width="18" height="18" alt=""/> **Автоматизация портового элеватора в Азове** — полный цикл работы предприятия, 1C, автоматизация в мельчайших деталях
+- <img src="assets/icons/sync.svg" width="18" height="18" alt=""/> **Переход элеватора на новую систему управления** при смене собственника — **без остановки работы**
+- <img src="assets/icons/rocket.svg" width="18" height="18" alt=""/> **Отделение от международной компании** — независимый IT-ландшафт **за 3 месяца**
+- <img src="assets/icons/truck.svg" width="18" height="18" alt=""/> **Система управления движением зерновозов** полного цикла — распознавание номеров, автоматика шлагбаумов, интеграция лабораторных приборов
 
 <br/>
 
@@ -161,19 +161,19 @@ Prometheus + Grafana дашборды · Централизованные лог
 ## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Опыт работы
 
 <details>
-<summary><b>🏢 Louis Dreyfus (Азов)</b> — администрирование и интеграция IT-систем предприятия</summary>
+<summary><b><img src="assets/icons/office.svg" width="18" height="18" alt=""/> Louis Dreyfus (Азов)</b> — администрирование и интеграция IT-систем предприятия</summary>
 <br/>
 
 - Оптимизация автоматизации погрузочно-разгрузочных и складских операций
 - Организация бесперебойной работы IT-инфраструктуры
 - Разработка ТЗ, взаимодействие с подрядчиками, обучение пользователей
 - Оптимизация бизнес-процессов
-- 🏆 Победа в конкурсе Global CIO — [проект](https://globalcio.ru/projects/36374/)
+- <img src="assets/icons/trophy.svg" width="18" height="18" alt=""/> Победа в конкурсе Global CIO — [проект](https://globalcio.ru/projects/36374/)
 
 </details>
 
 <details>
-<summary><b>🏢 JustDo-iT (Ростов-на-Дону)</b> — автоматизация бизнеса, 1C, сисадминистрирование</summary>
+<summary><b><img src="assets/icons/office.svg" width="18" height="18" alt=""/> JustDo-iT (Ростов-на-Дону)</b> — автоматизация бизнеса, 1C, сисадминистрирование</summary>
 <br/>
 
 - Автоматизация бизнеса, системы 1C
@@ -206,7 +206,7 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <div align="center">
 
-| 🏗️ Архитектура | 🔄 Автоматизация | 📊 Наблюдаемость | ⚡ Производительность | 🔒 Безопасность |
+| <img src="assets/icons/infra.svg" width="18" height="18" alt=""/> Архитектура | <img src="assets/icons/sync.svg" width="18" height="18" alt=""/> Автоматизация | <img src="assets/icons/observability.svg" width="18" height="18" alt=""/> Наблюдаемость | <img src="assets/icons/bolt.svg" width="18" height="18" alt=""/> Производительность | <img src="assets/icons/lock.svg" width="18" height="18" alt=""/> Безопасность |
 |:---:|:---:|:---:|:---:|:---:|
 | Простые, масштабируемые решения | CI/CD, IaC | Метрики, логи, трассировка | Оптимизация и масштабирование | Best practices |
 
@@ -224,9 +224,9 @@ Prometheus + Grafana дашборды · Централизованные лог
 
 <br/><br/>
 
-**💼 Готов к новым вызовам и интересным проектам!**
+**<img src="assets/icons/work.svg" width="18" height="18" alt=""/> Готов к новым вызовам и интересным проектам!**
 
-<sub>Поддержать: [t.me/tribute](https://t.me/tribute/app?startapp=dxDq) &nbsp;·&nbsp; Спасибо за посещение! ⭐</sub>
+<sub>Поддержать: [t.me/tribute](https://t.me/tribute/app?startapp=dxDq) &nbsp;·&nbsp; Спасибо за посещение! <img src="assets/icons/star.svg" width="18" height="18" alt=""/></sub>
 
 <br/><br/>
 
